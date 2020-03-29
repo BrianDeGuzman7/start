@@ -1,2 +1,4 @@
 # startup-page
-Simple Startup page with HTML and CSS
+Simple Website containing
+- Startup page
+- Sign-up page
