@@ -2,13 +2,17 @@ body,
 html {
   width: 100%;
   height: 100%;
+  background-color: black;
   font-family: 'Montserrat', sans-serif;
-
-  background: url(landing.jpg) no-repeat center center fixed; 
+  /*background: url(landing.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; */
+}
+
+h1 {
+  size: 5 rem 5 rem;
 }
 
 button {
@@ -20,6 +24,7 @@ button {
 }
 
 h1 {
-  color: black;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
